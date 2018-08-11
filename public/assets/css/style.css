@@ -1,0 +1,59 @@
+body {
+	background-image: url("https://pmcdeadline2.files.wordpress.com/2018/02/ny-times.jpg?w=446&h=299&crop=1");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Roboto Slab', serif;
+}
+
+.btn-danger {
+  background-color: #722b2b;
+  border-color: #722b2b;
+}
+
+
+.panel-default {
+  border-color:  rgba(255, 0, 0, 0.6);
+}
+
+.artLink {
+  color: #722b2b;
+}
+
+.saved-buttons {
+  margin-right: 1em;
+}
+
+.noteText {
+  color: rgb(255,55,210);
+}
+
+.deletex {
+  color: rgba(255, 0, 0, 0.6);
+}
+
+.modal-body{
+	background-image: url("https://media.newyorker.com/photos/5909740f8b51cf59fc422d53/master/w_727,c_limit/Konnikova-Resilience.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.alert-warning {
+	color: #fff;
+	background-color: #722b2b;
+	border-color: #722b2b;
+}
+
+.main-img {
+	margin-bottom: 2em;
+	border-top: 2px solid #3f3544;
+	border-bottom: 2px solid #3f3234;
+}
+
+.savedArt {
+	margin: 0 auto;
+	width: 80%;
+}
